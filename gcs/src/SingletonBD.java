@@ -13,6 +13,8 @@ public class SingletonBD {
 
     public static void atualizarUsuario(){ }
 
-    public static void listarUsuarios(){ }
+    public static void listarUsuarios(){
+        //testar listar usuarios
+    }
 
 }
