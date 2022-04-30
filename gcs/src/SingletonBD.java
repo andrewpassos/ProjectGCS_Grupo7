@@ -7,7 +7,10 @@ public class SingletonBD {
 
     private SingletonBD() { }
 
-    public static void adicionarUsuario(){ }
+    public static void adicionarUsuario(){
+        listaUsuario.add(new Usuario("Admin", "123", "Fulano", 1985));
+        System.out.println("\nUsuário cadastrado.\n");
+    }
 
     public static void deletarUsuario(){ }
 
