@@ -12,7 +12,9 @@ public class SingletonBD {
         System.out.println("\nUsuário cadastrado.\n");
     }
 
-    public static void deletarUsuario(){ }
+    public static void deletarUsuario(){ 
+
+	// deletar usuário}
 
     public static void atualizarUsuario(){
 
