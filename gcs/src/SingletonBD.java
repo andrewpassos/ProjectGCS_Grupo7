@@ -21,6 +21,8 @@ public class SingletonBD {
 // mudei o arquivo teste
 		}
 
-    public static void listarUsuarios(){ }
+    public static void listarUsuarios(){
+        //testar listar usuarios
+    }
 
 }
