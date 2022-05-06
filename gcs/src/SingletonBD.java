@@ -14,7 +14,10 @@ public class SingletonBD {
 
     public static void deletarUsuario(){ }
 
-    public static void atualizarUsuario(){ }
+    public static void atualizarUsuario(){
+
+// mudei o arquivo teste
+		}
 
     public static void listarUsuarios(){ }
 
