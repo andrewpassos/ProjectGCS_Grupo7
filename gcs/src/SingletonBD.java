@@ -19,6 +19,8 @@ public class SingletonBD {
     public static void atualizarUsuario(){
 
 // mudei o arquivo teste
+	    
+	    //remover botão usuário
 		}
 
     public static void listarUsuarios(){
