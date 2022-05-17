@@ -8,6 +8,7 @@ public class Usuario {
         this.usuario = usuario;
         this.senha = senha;
         this.nome = nome;
+        this.endereço;
         this.anoNascimento = anoNascimento;
     }
 
